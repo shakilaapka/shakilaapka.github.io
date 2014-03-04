@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="{{ site.url }}/css/bootstrap.min.css">
+	<link rel="stylesheet" href="{{ site.url }}/css/font-awesome.css">
+	<link rel="stylesheet" href="{{ site.url }}/css/main.css">
+	<title>{{ page.title }}</title>
+</head>
+<body>
+	<header>
+		<div class="top-line"></div>
+		<div class="header">
+			<div class="container">
+				<div class="pull-left" style="margin-right: 20px;">
+					<a href="{{ site.url }}/"><img class="img-circle pull-left" 
+						src="{{ site.url }}/assets/images/shakil.png"></a>
+				</div>
+				<div class="pull-left" style="padding-top: 0.5em">
+					<h1><a href="{{ site.url }}/">Shakil Ahmed</a></h1>
+					<span>Maharashtra State Executive Member, <b>Aam Aadmi Party</b></span>
+				</div>
+			</div>
+		</div>
+		</div>
+	</header>
+	
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-8">
+				{{ content }}
+			</div>
+			<div class="col-sm-4">
+				<div class="sidebar">
+					<div class="sidebar-item">
+						<a href="about.html">About Me</a>
+						<a href="bio.html">Bio</a>
+						<a href="news.html">In the News</a>
+						<a href="aap.html">Why AAP</a>
+						<a href="book.html">Book: Hamara Ghar, Hamara Adhikar</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<footer>
+		<div class="footer">
+			<div class="container">
+				<ul class="list-unstyled">
+					<li>Copyright (c) 2012-2014 Shakil Ahmed</li>
+					<li><hr></li>
+					<li><i class="icon-twitter icon-fixed-width"></i> <a href="https://twitter.com/myshakil" target="_blank">@myshakil</a></li>
+				</ul>
+			</div>
+		</div>
+	</footer>
+	
+	<script src="{{ site.url }}/js/jquery.min.js"></script>
+	<script src="{{ site.url }}/js/bootstrap.min.js"></script>
+</body>
+</html>
