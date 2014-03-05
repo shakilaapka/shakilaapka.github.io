@@ -18,15 +18,15 @@ Each of the districts in Marathwada has their overlords. The lord of Beed distri
 
 On my travels to Beed, I found out how this happens.
 
-All political parties have a pact that their top leaders must be elected. To ensure this, parties will ensure that from wherever a big leaders contests for elections, other parties will put up weak candidates. This is true for almost everywhere in Maharashtra.
+All political parties have a pact that their top leaders must be elected. To ensure this, parties will ensure that from wherever a big leader contests for elections, other parties will put up weak candidates. This is true for almost everywhere in Maharashtra.
 
-I Beed district, NCP is the other party that has a presennce. The pact between Munde and NCP is this:
+In Beed district, NCP is the other party that has a presennce. The pact between Munde and NCP is this:
 
-1. NCP will let Munde win Lok Sabha (National Election) from Beed. They will put up weak candidate and create an atmosphere where NCP workers will fall at the feet of Munde when he is in the district. (Yes, even today, in rural India, the people are expected to demonstrate their love for the politicians by falling at their feet.)
+1. NCP will let Munde win Lok Sabha (National Election) from Beed. They will put up a weak candidate and create an atmosphere where NCP workers will fall at the feet of Munde when he is in the district. (Yes, even today, in rural India, the people are expected to demonstrate their love for the politicians by falling at their feet.)
 1. In Vidhan Sabha (State Elections), Munde's daughter is sure to win too.
-1. In return of this favour, NCP will win 5 of the other 6 seats in Beed.
+1. In return for this favour, NCP will win 5 of the other 6 seats in Beed.
 
-This is how politicans win in rural area and this is what Aam Aadmi Party will change. We will give these politicans who are not used to fight elections in their home districts a run for their money. The people have remained quiet for a long time because the were denied any alternative.
+This is how politicans win in rural area and this is what Aam Aadmi Party will change. We will give these politicans who are not used to fighting elections in their home districts, a run for their money. The people have remained quiet for a long time because they were denied any alternative.
 
 This is the reason Aam Aadmi Party might do better than people think, in rural India.
 

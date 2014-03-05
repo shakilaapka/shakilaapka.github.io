@@ -2,7 +2,7 @@
 layout: post
 title: Muslims Joining Aam Aadmi Party in Large Numbers
 ---
-Muslims are coming to Aam Aadmi Party in large numbers. I must have attended hundereds of public meetings in rural and urban Mahashtra and the feeling is unmistakable. Muslims usually form 10%-15% of the local populations, but their presence in AAP meetings is much larger than this. In many meetings I find that more than half of the audience is Muslim. This is a trend I have seen everywhere. There are many interesting observations here.
+Muslims are coming to Aam Aadmi Party in large numbers. I must have attended hundereds of public meetings in rural and urban Maharashtra and the feeling is unmistakable. Muslims usually form 10%-15% of the local populations, but their presence in AAP meetings is much larger than this. In many meetings I find that more than half of the audience is Muslim. This is a trend I have seen everywhere. There are many interesting observations here.
 
 ![Meeting of Minority Groups](/assets/images/minorities-meeting.png)
 
