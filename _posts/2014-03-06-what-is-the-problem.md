@@ -6,7 +6,7 @@ The scion of the Congress Party, Rahul Gandhi, visited the Kolis (fisherfolk) of
 
 ![Koliwada](/assets/images/koliwada.png)
 
-Never mind the fact that it took the Congress Party 10 years of being in power to find time to ask the Kolis about their problems. Never mind that instead of understanding their problems, he should be asking about what has his government done for the Kolis. He is asking the wrong people. What Rahul Gandhi does not understand is that the problems are created by the policies created by his own governments, not the people. The people would be happier living as they did without the government policies towards their land and occupation.
+Never mind the fact that it took the Congress Party 10 years of being in power to find time to ask the Kolis about their problems. Never mind that instead of understanding their problems, he should be asking about what has his government done for the Kolis. What Rahul Gandhi does not understand is that the problems are created by the policies created by his own governments, not the people. The people would be happier living as they did without the government policies towards their land and occupation.
 
 ![Koliwada](/assets/images/rahul-gandhi.png)
 
