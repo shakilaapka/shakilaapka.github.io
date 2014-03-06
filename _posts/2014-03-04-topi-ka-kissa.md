@@ -8,7 +8,7 @@ Wherever I have travelled, I have found that people have a great love and respec
 
 #### Topi Ki Upar Uthao (Raise the Cap)
 
-Once during my travels, I was riding pillion on a motorcycle with my Aam Aadmi Topi on. The wind was flying on my face and the topi flew away. I looked behind and it seemed that a labourer had caught it. He was running towards us. He seemed a poor landless labourer but had a spark in his eyes. With great care the put the topi back on my head and said,
+Once during my travels, I was riding pillion on a motorcycle with my Aam Aadmi Topi on. The wind was flying on my face and the topi flew away. I looked behind and it seemed that a labourer had caught it. He was running towards us. He seemed a poor landless labourer but had a spark in his eyes. With great care he put the topi back on my head and said,
 
 *"Topi ko neeche nahi girne do, isko toh upar uthana hain!" (Don't let the cap fall, we have to raise it much higher)*
 
