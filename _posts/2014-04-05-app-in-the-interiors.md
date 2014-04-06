@@ -8,7 +8,7 @@ Between hot afternoons, spicy food and bumpy rides, a few interesting encounters
 
 While I was on the way from Jalna to Nanded, I had telephoned three taluka level groups and met then on the way. The talukas are Patlur, Selur and Purna. All of them fall in the Parbhani constituency. I was very touched and motivated by seeing the energy at these talukas.
 
-![Countryside](/assets/images/marathwada-countryside.png)
+![Countryside](/assets/images/marthwada-countryside.png)
 
 I told the workers not to expect anything form the candidate and run their own campaigns by appointing booth level workers and doing door to door campaigning. I told them not to even expect a visit from the candidate. All of them told me that they are already campaigning in full swing. They are all doing the work and printing their own pamphlets without any expectation or support.
 
