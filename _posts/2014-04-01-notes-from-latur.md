@@ -2,9 +2,7 @@
 layout: post
 title: Notes from Latur
 ---
-*From the campaign trail*
-
-I stayed the night with the secratary of the Latur District. He has a 50 acre plot and has built for himself a nice haveli in which he welcomed me. He is also very fond of dogs and proudly showed me trophies that his dogs had won.
+*From the campaign trail*. I stayed the night with the secratary of the Latur District. He has a 50 acre plot and has built for himself a nice haveli in which he welcomed me. He is also very fond of dogs and proudly showed me trophies that his dogs had won.
 
 #### "There is a lot of profit in agriculture"
 

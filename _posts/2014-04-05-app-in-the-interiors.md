@@ -2,6 +2,8 @@
 layout: post
 title: Aam Aadmi Party in the Interiors
 ---
+Between hot afternoons, spicy food and bumpy rides, a few interesting encounters campaigning for the Aam Aadmi Party in the hot and dry interiors of Marathwada.
+
 #### From Jalna to Nanded
 
 While I was on the way from Jalna to Nanded, I had telephoned three taluka level groups and met then on the way. The talukas are Patlur, Selur and Purna. All of them fall in the Parbhani constituency. I was very touched and motivated by seeing the energy at these talukas.
